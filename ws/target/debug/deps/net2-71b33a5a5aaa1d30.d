@@ -1,0 +1,13 @@
+/Users/vanilla/Documents/GitHub/Rust_Full_Stack/ws/target/debug/deps/net2-71b33a5a5aaa1d30.rmeta: /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/lib.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/tcp.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/udp.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/socket.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/ext.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/utils.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/sys/unix/mod.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/sys/unix/impls.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/unix.rs
+
+/Users/vanilla/Documents/GitHub/Rust_Full_Stack/ws/target/debug/deps/net2-71b33a5a5aaa1d30.d: /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/lib.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/tcp.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/udp.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/socket.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/ext.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/utils.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/sys/unix/mod.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/sys/unix/impls.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/unix.rs
+
+/Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/lib.rs:
+/Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/tcp.rs:
+/Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/udp.rs:
+/Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/socket.rs:
+/Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/ext.rs:
+/Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/utils.rs:
+/Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/sys/unix/mod.rs:
+/Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/sys/unix/impls.rs:
+/Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/net2-0.2.39/src/unix.rs:

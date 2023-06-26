@@ -1,0 +1,11 @@
+/Users/vanilla/Documents/GitHub/Rust_Full_Stack/ws/target/debug/deps/actix_rt-552b0298b43c0f5a.rmeta: /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-1.1.1/src/lib.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-1.1.1/src/arbiter.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-1.1.1/src/builder.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-1.1.1/src/runtime.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-1.1.1/src/system.rs
+
+/Users/vanilla/Documents/GitHub/Rust_Full_Stack/ws/target/debug/deps/libactix_rt-552b0298b43c0f5a.rlib: /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-1.1.1/src/lib.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-1.1.1/src/arbiter.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-1.1.1/src/builder.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-1.1.1/src/runtime.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-1.1.1/src/system.rs
+
+/Users/vanilla/Documents/GitHub/Rust_Full_Stack/ws/target/debug/deps/actix_rt-552b0298b43c0f5a.d: /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-1.1.1/src/lib.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-1.1.1/src/arbiter.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-1.1.1/src/builder.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-1.1.1/src/runtime.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-1.1.1/src/system.rs
+
+/Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-1.1.1/src/lib.rs:
+/Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-1.1.1/src/arbiter.rs:
+/Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-1.1.1/src/builder.rs:
+/Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-1.1.1/src/runtime.rs:
+/Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-rt-1.1.1/src/system.rs:

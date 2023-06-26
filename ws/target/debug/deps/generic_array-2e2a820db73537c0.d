@@ -1,0 +1,11 @@
+/Users/vanilla/Documents/GitHub/Rust_Full_Stack/ws/target/debug/deps/generic_array-2e2a820db73537c0.rmeta: /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.7/src/lib.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.7/src/hex.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.7/src/impls.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.7/src/arr.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.7/src/functional.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.7/src/iter.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.7/src/sequence.rs
+
+/Users/vanilla/Documents/GitHub/Rust_Full_Stack/ws/target/debug/deps/generic_array-2e2a820db73537c0.d: /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.7/src/lib.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.7/src/hex.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.7/src/impls.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.7/src/arr.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.7/src/functional.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.7/src/iter.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.7/src/sequence.rs
+
+/Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.7/src/lib.rs:
+/Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.7/src/hex.rs:
+/Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.7/src/impls.rs:
+/Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.7/src/arr.rs:
+/Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.7/src/functional.rs:
+/Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.7/src/iter.rs:
+/Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/generic-array-0.14.7/src/sequence.rs:

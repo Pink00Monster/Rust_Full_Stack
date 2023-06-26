@@ -1,0 +1,11 @@
+/Users/vanilla/Documents/GitHub/Rust_Full_Stack/ws/target/debug/deps/socket2-4306eb15cb9b48d6.rmeta: /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.3.19/src/lib.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.3.19/src/sockaddr.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.3.19/src/socket.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.3.19/src/utils.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.3.19/src/sys/unix.rs
+
+/Users/vanilla/Documents/GitHub/Rust_Full_Stack/ws/target/debug/deps/libsocket2-4306eb15cb9b48d6.rlib: /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.3.19/src/lib.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.3.19/src/sockaddr.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.3.19/src/socket.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.3.19/src/utils.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.3.19/src/sys/unix.rs
+
+/Users/vanilla/Documents/GitHub/Rust_Full_Stack/ws/target/debug/deps/socket2-4306eb15cb9b48d6.d: /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.3.19/src/lib.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.3.19/src/sockaddr.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.3.19/src/socket.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.3.19/src/utils.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.3.19/src/sys/unix.rs
+
+/Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.3.19/src/lib.rs:
+/Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.3.19/src/sockaddr.rs:
+/Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.3.19/src/socket.rs:
+/Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.3.19/src/utils.rs:
+/Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/socket2-0.3.19/src/sys/unix.rs:

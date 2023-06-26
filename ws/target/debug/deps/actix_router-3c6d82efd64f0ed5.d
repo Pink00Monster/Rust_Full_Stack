@@ -1,0 +1,10 @@
+/Users/vanilla/Documents/GitHub/Rust_Full_Stack/ws/target/debug/deps/actix_router-3c6d82efd64f0ed5.rmeta: /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-router-0.2.7/src/lib.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-router-0.2.7/src/de.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-router-0.2.7/src/path.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-router-0.2.7/src/resource.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-router-0.2.7/src/router.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-router-0.2.7/src/url.rs
+
+/Users/vanilla/Documents/GitHub/Rust_Full_Stack/ws/target/debug/deps/actix_router-3c6d82efd64f0ed5.d: /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-router-0.2.7/src/lib.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-router-0.2.7/src/de.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-router-0.2.7/src/path.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-router-0.2.7/src/resource.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-router-0.2.7/src/router.rs /Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-router-0.2.7/src/url.rs
+
+/Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-router-0.2.7/src/lib.rs:
+/Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-router-0.2.7/src/de.rs:
+/Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-router-0.2.7/src/path.rs:
+/Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-router-0.2.7/src/resource.rs:
+/Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-router-0.2.7/src/router.rs:
+/Users/vanilla/.cargo/registry/src/index.crates.io-6f17d22bba15001f/actix-router-0.2.7/src/url.rs:
