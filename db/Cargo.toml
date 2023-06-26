@@ -18,4 +18,4 @@ sqlx = { version = "0.5.10", features = [
     "runtime-tokio-rustls",
     "macros",
     "chrono",
-] }
+]}
